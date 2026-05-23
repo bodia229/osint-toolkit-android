@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-mergeDebugResources-37:\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-main-40:\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "com.osint.toolkit.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.osint.toolkit.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-mergeDebugResources-37:\\layout\\item_category.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-main-40:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-mergeDebugResources-37:\\layout\\item_tool.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-main-40:\\layout\\item_tool.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.osint.toolkit.app-main-40:\\layout\\activity_main.xml"
+    }
+]
